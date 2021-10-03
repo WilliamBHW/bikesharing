@@ -44,5 +44,5 @@ This image is reflecting number of trips under different user types by gender an
 
 ## Summary
 From above images, August peak hours and Trips by gender (weekday per hour) are reflecting something in common which is the usage of bike by user under each hour. During rush hours (7am to 9am and 5pm to 7pm), bikes are being used more often than other times in the day. From Checkout time (by gender), it is obvious that male users are checking more number of bikes in general and almost all users are using the bike for short time trip (under an hour). The User trip by gender (by weekday) is indicating males subscribers having large amout of usage of bike during wekdays (perhaps bike as a commute option is budget friendly). The Average tirp duration image indicated that users born in around 1890 and 1970 are having more average trip duration than others. 
-<br>
+<br><br>
 On the otehr hand, all images are reflecting bike utilization. The reasons for user choosing bike as a commute option is missing. Graphs such as price and seperate reports on trip location by gender would be anoteh ideal display for decision making.
